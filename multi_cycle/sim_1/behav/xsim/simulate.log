@@ -1,0 +1,39 @@
+Time resolution is 1 ps
+RISC-V MULTICYCLE PROCESSOR SIMULATION 
+Time:      30 ns | PC: 0x00000000 | Instruction: 0x00000000 | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:      50 ns | PC: 0x00000004 | Instruction: 0x00500293 | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:      70 ns | PC: 0x00000004 | Instruction: 0x00500293 | FSM State: S8 | RegWrite: 0 | PCWrite: 0
+Time:      90 ns | PC: 0x00000004 | Instruction: 0x00500293 | FSM State: S7 | RegWrite: 1 | PCWrite: 0
+Time:     110 ns | PC: 0x00000004 | Instruction: 0x00500293 | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:     130 ns | PC: 0x00000008 | Instruction: 0x40500333 | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:     150 ns | PC: 0x00000008 | Instruction: 0x40500333 | FSM State: S6 | RegWrite: 0 | PCWrite: 0
+Time:     170 ns | PC: 0x00000008 | Instruction: 0x40500333 | FSM State: S7 | RegWrite: 1 | PCWrite: 0
+Time:     190 ns | PC: 0x00000008 | Instruction: 0x40500333 | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:     210 ns | PC: 0x0000000c | Instruction: 0x04502023 | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:     230 ns | PC: 0x0000000c | Instruction: 0x04502023 | FSM State: S2 | RegWrite: 0 | PCWrite: 0
+Time:     250 ns | PC: 0x0000000c | Instruction: 0x04502023 | FSM State: S5 | RegWrite: 0 | PCWrite: 0
+Time:     270 ns | PC: 0x0000000c | Instruction: 0x04502023 | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:     290 ns | PC: 0x00000010 | Instruction: 0x04002383 | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:     310 ns | PC: 0x00000010 | Instruction: 0x04002383 | FSM State: S2 | RegWrite: 0 | PCWrite: 0
+Time:     330 ns | PC: 0x00000010 | Instruction: 0x04002383 | FSM State: S3 | RegWrite: 0 | PCWrite: 0
+Time:     350 ns | PC: 0x00000010 | Instruction: 0x04002383 | FSM State: S4 | RegWrite: 1 | PCWrite: 0
+Time:     370 ns | PC: 0x00000010 | Instruction: 0x04002383 | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:     390 ns | PC: 0x00000014 | Instruction: 0x0080056f | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:     410 ns | PC: 0x00000014 | Instruction: 0x0080056f | FSM State: S9 | RegWrite: 0 | PCWrite: 1
+>>> [JAL DETECTED] Target JUMP Address Calculated: 0x00000018 <<<
+Time:     430 ns | PC: 0x00000018 | Instruction: 0x0080056f | FSM State: S7 | RegWrite: 1 | PCWrite: 0
+Time:     450 ns | PC: 0x00000018 | Instruction: 0x0080056f | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:     470 ns | PC: 0x0000001c | Instruction: 0x008004b3 | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:     490 ns | PC: 0x0000001c | Instruction: 0x008004b3 | FSM State: S6 | RegWrite: 0 | PCWrite: 0
+Time:     510 ns | PC: 0x0000001c | Instruction: 0x008004b3 | FSM State: S7 | RegWrite: 1 | PCWrite: 0
+Time:     530 ns | PC: 0x0000001c | Instruction: 0x008004b3 | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:     550 ns | PC: 0x00000020 | Instruction: 0xfe0206e3 | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:     570 ns | PC: 0x00000020 | Instruction: 0xfe0206e3 | FSM State: S10 | RegWrite: 0 | PCWrite: 1
+Time:     590 ns | PC: 0x00000008 | Instruction: 0xfe0206e3 | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:     610 ns | PC: 0x0000000c | Instruction: 0x04502023 | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:     630 ns | PC: 0x0000000c | Instruction: 0x04502023 | FSM State: S2 | RegWrite: 0 | PCWrite: 0
+Time:     650 ns | PC: 0x0000000c | Instruction: 0x04502023 | FSM State: S5 | RegWrite: 0 | PCWrite: 0
+Time:     670 ns | PC: 0x0000000c | Instruction: 0x04502023 | FSM State: S0 | RegWrite: 0 | PCWrite: 1
+Time:     690 ns | PC: 0x00000010 | Instruction: 0x04002383 | FSM State: S1 | RegWrite: 0 | PCWrite: 0
+Time:     710 ns | PC: 0x00000010 | Instruction: 0x04002383 | FSM State: S2 | RegWrite: 0 | PCWrite: 0
+$finish called at time : 720 ns : File "/home/pc-11/Desktop/Computer Architecture/Multicycle_processor_Final/Multicycle_processor2/project_1.srcs/sim_1/new/top_module_tb.v" Line 42

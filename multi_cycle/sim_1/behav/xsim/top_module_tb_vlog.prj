@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef" \
+"../../../../project_1.srcs/sources_1/new/A.v" \
+"../../../../project_1.srcs/sources_1/new/ALUOut.v" \
+"../../../../project_1.srcs/sources_1/new/Data.v" \
+"../../../../project_1.srcs/sources_1/new/OldPC.v" \
+"../../../../project_1.srcs/sources_1/new/PC32bit.v" \
+"../../../../project_1.srcs/sources_1/new/WriteData.v" \
+"../../../../project_1.srcs/sources_1/new/alu_logic.v" \
+"../../../../project_1.srcs/sources_1/new/imm_ext.v" \
+"../../../../project_1.srcs/sources_1/new/inst_mem.v" \
+"../../../../project_1.srcs/sources_1/new/instr.v" \
+"../../../../project_1.srcs/sources_1/new/main_fsm.v" \
+"../../../../project_1.srcs/sources_1/new/mux2_1.v" \
+"../../../../project_1.srcs/sources_1/new/mux3_1.v" \
+"../../../../project_1.srcs/sources_1/new/reg_file.v" \
+"../../../../project_1.srcs/sources_1/new/top_module.v" \
+"../../../../project_1.srcs/sim_1/new/top_module_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
